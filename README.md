@@ -4,11 +4,12 @@
 
 
 
-- 👋 Hi, I’m @Manish1Gupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm Manish🙋‍♂️,  a tech enthusiast with passion to solve problems and to make things.  Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
+- 👀 I’m interested in Fornted Development and CP
+- 
 - 📫 How to reach me ...
+- 👉connect with me:- 
+ www.linkedin.com/in/manish-gupta-a91b5b1aa
 - 🔭 I’m currently working on Web Development
 
 🌱 I’m currently learning Data Structure & Algorithms
@@ -24,6 +25,7 @@
 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 
 ⚡ Fun fact I think I'm funny😄
+ 
 
 <!---
 Manish1Gupta/Manish1Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
