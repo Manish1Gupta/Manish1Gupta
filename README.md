@@ -1,8 +1,6 @@
 ![image](https://user-images.githubusercontent.com/115662246/222907819-78d455e6-c1e8-4a9c-8ac2-ef25e1c6d76c.png)
 
-
-
-
+https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-gamer-headphones_117038-5485.jpg
 
 - 👋 Hi, I'm Manish🙋‍♂️,  a tech enthusiast with passion to solve problems and to make things.  Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
 - 👀 I’m interested in Fornted Development and CP
