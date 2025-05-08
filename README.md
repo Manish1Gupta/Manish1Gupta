@@ -4,7 +4,8 @@
 
 
 
-- 👋 Hi, I'm Manish🙋‍♂️,  a tech enthusiast with passion to solve problems and to make things.  Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
+- 👋 Hi, I'm Manish🙋‍♂️,
+-   a tech enthusiast with passion to solve problems and to make things.  Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
 - 👀 I’m interested in the MERN Stack and CP.
 - 
 - 📫 How to reach me ...
